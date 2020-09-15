@@ -9,3 +9,4 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 6. [Principle components analysis.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Word%20vectors%20and%20PCA.ipynb)
 7. [Auto-correction using Bayes rules.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/autocorrection.ipynb)
 8. [Sentimental Anaylysis with DNN using Trax.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Sentimental%20analysis%20with%20DNN%20using%20Trax.ipynb)
+9. [Machine translation using GRU.](
