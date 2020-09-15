@@ -6,7 +6,7 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 3. [Continuous bag-of-words.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Implementing%20CBOW%20from%20scratch.ipynb)
 4. [Implementing Logistic Regression](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Logistic%20Regression%20on%20Sentimental%20Analysis.ipynb)[and Naive Bayes on sentimental analysis.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Naive%20Bayes%20on%20Sentimental%20Analysis.ipynb)
 5. [Naive Machine translation using KNN.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Machine%20translation%20using%20word%20embeddings%20and%20KNN.ipynb)
-6. [Principle components analysis.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Word%20vectors%20and%20PCA.ipynb)
+6. [Principle Components Analysis.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Word%20vectors%20and%20PCA.ipynb)
 7. [Auto-correction using Bayes rules.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/autocorrection.ipynb)
-8. [Sentimental Anaylysis with DNN using Trax.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Sentimental%20analysis%20with%20DNN%20using%20Trax.ipynb)
-9. [Machine translation using GRU.](
+8. [Sentimental Anaylysis using DNN.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Sentimental%20analysis%20with%20DNN%20using%20Trax.ipynb)
+9. [Machine Translation using GRU.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Machine%20translation%20using%20GRU.ipynb)
