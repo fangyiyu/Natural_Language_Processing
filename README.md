@@ -13,3 +13,7 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 10. [Distinguishing question duplicates using Siamese model.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Distinguishing%20question%20duplicates%20using%20Siamese%20model.ipynb)  
 11. [Name Entity Recognition using LSTM.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Name%20Entity%20Recognition%20using%20LSTM.ipynb)  
 12. [Bleu score from scratch.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Bleu%20score%20from%20scratch.ipynb)
+
+## References:
+1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al, 2019)](https://arxiv.org/abs/1910.10683)
+
