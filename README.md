@@ -14,6 +14,8 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 11. [Name Entity Recognition using LSTM.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Name%20Entity%20Recognition%20using%20LSTM.ipynb)  
 12. [Bleu score from scratch.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Bleu%20score%20from%20scratch.ipynb)  
 13. [Neural Machine Translation with Attention.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Neural%20Machine%20Translation%20with%20Attention.ipynb)  
+14. [Transformer from scratch.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Transformer%20from%20scratch.ipynb)  
+
 
 
 # References:
