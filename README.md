@@ -25,5 +25,6 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 3. [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)  
 4. [Deep contextualized word representations (Peters et al, 2018)](https://arxiv.org/pdf/1802.05365.pdf)  
 5. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al, 2018)](https://arxiv.org/abs/1810.04805)  
+6. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
 
 
