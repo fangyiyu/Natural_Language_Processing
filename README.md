@@ -21,11 +21,10 @@ The notebooks in this repo are all completed assignments from deeplearning.ai NL
 
 
 # References:
-1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al, 2019)](https://arxiv.org/abs/1910.10683)  
-2. [Reformer: The Efficient Transformer (Kitaev et al, 2020)](https://arxiv.org/abs/2001.04451)  
-3. [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)  
-4. [Deep contextualized word representations (Peters et al, 2018)](https://arxiv.org/pdf/1802.05365.pdf)  
-5. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al, 2018)](https://arxiv.org/abs/1810.04805)  
-6. [Jukebox: A Generative Model for Music](https://arxiv.org/pdf/2005.00341.pdf)
+1. [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer (Raffel et al, 2019)](https://arxiv.org/abs/1910.10683)   
+2. [Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/abs/1706.03762)  
+3. [Deep contextualized word representations (Peters et al, 2018)](https://arxiv.org/pdf/1802.05365.pdf)  
+4. [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (Devlin et al, 2018)](https://arxiv.org/abs/1810.04805)  
+
 
 
