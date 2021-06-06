@@ -1,6 +1,6 @@
 # Copyright:
 
-The notebooks in this repo are all completed assignments from deeplearning.ai NLP specialization courses, including the following:
+The notebooks in this repo are all completed assignments I finished from deeplearning.ai NLP specialization courses, including the following:
 1. [Building a n-gram language model for auto-completion.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Autocomplete%20using%20N-gram%20language%20model.ipynb)
 2. [HMM and Viterbi algorithem.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/HMM%20and%20Viterbi%20algorithem.ipynb)
 3. [Continuous bag-of-words.](https://github.com/fangyiyu/NLP_sourcecode/blob/master/Implementing%20CBOW%20from%20scratch.ipynb)
